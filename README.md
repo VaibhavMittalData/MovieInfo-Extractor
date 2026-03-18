@@ -1,4 +1,4 @@
-🎬 Movie Information Extractor (Generative AI)
+#🎬 Movie Information Extractor (Generative AI)
 📌 Overview
 
 This project is a Movie Information Extractor built using Generative AI, designed to transform unstructured movie-related text into structured data. It leverages Large Language Models (LLMs) to automatically extract key details such as movie title, genre, cast, rating, and summary.
